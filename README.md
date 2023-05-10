@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML]((https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
