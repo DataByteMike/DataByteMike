@@ -19,3 +19,17 @@
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 </p>
+
+</br>
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+</br>
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-cwvn.vercel.app/api?username=DataByteMike&custom_title=DataByteMike&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham">
+</p>
+
+<p align="center">
+  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=DataByteMik&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
+</p>
