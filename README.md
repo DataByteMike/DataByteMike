@@ -1,35 +1,30 @@
-# Hi there, I'm Michael - AKA DataByteMike 👋
-![](https://komarev.com/ghpvc/?username=Dat&color=dc143c)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
 
-### Languages
+<h1 align="center">Background</h1>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+</br>
 
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-<img height="136px" src="https://github-readme-stats.vercel.app/api?username=DataByteMike&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByteMike&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
+<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<p align="center">
+  </br>
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+</p>
+<p align="center">
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
+  <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
+  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
+  <code><img title="Git" height="35" src="./icons/git.svg"></code>
+  <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
+  <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
+  <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
+  <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
+  <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
+</p>
