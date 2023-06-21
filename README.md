@@ -18,13 +18,4 @@
 <p align="center">
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  <code><img title="jQuery" height="35" src="./icons/jquery.svg"></code>
-  <code><img title="SQL Server" height="35" src="./icons/sql.svg"></code>
-  <code><img title="MySQL" height="35" src="./icons/mysql.svg"></code>
-  <code><img title="Git" height="35" src="./icons/git.svg"></code>
-  <code><img title="Google Cloud Platform" height="35" src="./icons/gcp.svg"></code>
-  <code><img title="Microsoft Azure DevOps" height="35" src="./icons/azure-devops.svg"></code>
-  <code><img title="Microsoft .Net" height="35" src="./icons/dotnet.svg"></code>
-  <code><img title="Unity" height="35" src="./icons/unity.svg"></code>
-  <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
 </p>
