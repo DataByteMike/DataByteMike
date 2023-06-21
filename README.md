@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=💬+Hello+Stranger+💬;🔻+Welcome+To+My+Page+🔻)](https://git.io/typing-svg)
 
-<h1 align="center">Background</h1>
-
 </br>
 
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
