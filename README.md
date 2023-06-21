@@ -7,16 +7,13 @@
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
  <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
-
-  {![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)}
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
+ <img src="https://img.shields.io/badge/-C-000?&logo=C" />
+ <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
+ <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+ <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+ <img src="(https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
+ <img src="" />
+ <img src="" />
 </p>
 
 </br>
