@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=💬+Hello+Stranger+💬;🔻+Welcome+To+My+Page+🔻)](https://git.io/typing-svg)
-
+<h1 align="center">Welcome to my Repo</h1>
 </br>
 
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
@@ -9,6 +8,7 @@
  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
  <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML" />
+ <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS" />
  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
  <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />
