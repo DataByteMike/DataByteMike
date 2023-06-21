@@ -6,7 +6,7 @@
 
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C))" />
+ <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
 
   {![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)}
   ![C](https://img.shields.io/badge/-C-000?&logo=C)
