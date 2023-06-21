@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to my Repo</h1>
 </br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=Hello+Stranger;Browse+At+Your+Own+Pace)](https://git.io/typing-svg)
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
+ </br>
  <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
  <img src="https://img.shields.io/badge/-C-000?&logo=C" />
  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
