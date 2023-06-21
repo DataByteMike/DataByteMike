@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Repo</h1>
+<h1 align="center">Welcome To My Repo</h1>
 </br>
 
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
