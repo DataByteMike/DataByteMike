@@ -11,12 +11,19 @@
  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
- <img src="(https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
- <img src="" />
+ <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
+ <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />
+ <img src="https://img.shields.io/badge/-React-000?&logo=React" />
+ 
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" />
+ <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
  <img src="" />
 </p>
 
 </br>
+
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
 </br>
