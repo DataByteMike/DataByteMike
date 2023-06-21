@@ -17,7 +17,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90" />
  <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
- <img src="" />
+ <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
 </p>
 
 </br>
